@@ -1,0 +1,6 @@
+main: fr.ctrl.bottle.Main
+version: 1.7
+author: CTRL
+name: BottleXP
+commands:
+    bottlexp:
